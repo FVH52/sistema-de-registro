@@ -5,3 +5,5 @@
 Para ejectar el sistema, debes poner:
 
 ```npm install react```
+
+Ssitema de Registro 2
